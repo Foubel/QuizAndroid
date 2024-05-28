@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Quiz</string>
+
+    <!-- Écran de connexion -->
+    <string name="enter_username">Entrez votre pseudo</string>
+    <string name="login">Se connecter</string>
+
+    <!-- Écran des catégories -->
+    <string name="choose_category">Choisissez une catégorie</string>
+
+    <!-- Écran du quiz -->
+    <string name="correct_answers">Réponses correctes : </string>
+    <string name="wrong_answers">Réponses incorrectes : </string>
+    <string name="time_remaining">Temps restant : </string>
+
+    <!-- Écran des scores -->
+    <string name="high_scores">Meilleurs scores</string>
+    <string name="restart">Recommencer</string>
+
+    <!-- Autres chaînes -->
+    <string name="next_question">Question suivante</string>
+    <string name="submit">Valider</string>
+    <string name="score">Score : </string>
+</resources>
