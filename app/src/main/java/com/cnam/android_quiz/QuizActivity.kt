@@ -85,7 +85,7 @@ class QuizActivity : AppCompatActivity() {
 
     private fun startCountDownTimer() {
         countDownTimer?.cancel()
-        countDownTimer = object : CountDownTimer(30000, 1000) {
+        countDownTimer = object : CountDownTimer(10000, 1000) {
             override fun onTick(millisUntilFinished: Long) {
                 tvCountdown.text = "${getString(R.string.time_remaining)} ${millisUntilFinished / 1000}"
             }

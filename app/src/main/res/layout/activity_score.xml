@@ -28,7 +28,7 @@
         android:id="@+id/btnDeleteScores"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Delete All Scores"/>
+        android:text="@string/delete_all"/>
 
 
 </LinearLayout>

@@ -22,4 +22,5 @@
     <string name="next_question">Question suivante</string>
     <string name="submit">Valider</string>
     <string name="score">Score : </string>
+    <string name="delete_all">Tout supprimer</string>
 </resources>
